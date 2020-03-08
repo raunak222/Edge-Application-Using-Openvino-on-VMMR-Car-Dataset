@@ -19,7 +19,7 @@ Benefits of doing this is to build the model on the device so that data does not
 ![alt text](https://github.com/raunak222/Edge-Application-Using-Openvino-on-VMMR-Car-Dataset/blob/master/Images/CAR_META-output%20(1).png)
 
 
-![alt text](https://github.com/raunak222/Edge-Application-Using-Openvino-on-VMMR-Car-Dataset/blob/master/Images/CAR_META-output%20.png)
+![alt text](https://github.com/raunak222/Edge-Application-Using-Openvino-on-VMMR-Car-Dataset/blob/master/Images/CAR_META-output.png)
 
 ## Developer 
   Raunak Sarada 
