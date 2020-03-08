@@ -16,11 +16,11 @@ Benefits of doing this is to build the model on the device so that data does not
 ### Stolen Car Distribution
 ![alt text](https://github.com/raunak222/UdacityOpenSource/blob/master/Raunak%20Sarada/Federated%20Learning%20on%20VMMR%20Cars%20Dataset/vmmr3.PNG)
 ### Output of Openvino Application
-![alt text]
-(https://github.com/raunak222/Edge-Application-Using-Openvino-on-VMMR-Car-Dataset/blob/master/Images/CAR_META-output.png)
+![alt text](https://github.com/raunak222/Edge-Application-Using-Openvino-on-VMMR-Car-Dataset/blob/master/Images/CAR_META-output%20(1).png)
 
-![alt text]
-(https://github.com/raunak222/Edge-Application-Using-Openvino-on-VMMR-Car-Dataset/blob/master/Images/CAR_META-output(1).png)
+
+![alt text](https://github.com/raunak222/Edge-Application-Using-Openvino-on-VMMR-Car-Dataset/blob/master/Images/CAR_META-output%20.png)
+
 ## Developer 
   Raunak Sarada 
   - [Github](https://github.com/raunak222) 
